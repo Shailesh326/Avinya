@@ -25,7 +25,7 @@ const Food = () => {
   };
 
   let ourfood=["burger","pizza","salad","chicken"]
-  let ourprice =["$","$$","$$$","$$$$"]
+  let ourprice =["rs","rrr","sss","ffff"]
 
   return (
     <div className='max-w-[1640px] m-auto px-4 py-12'>
