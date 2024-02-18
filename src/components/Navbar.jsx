@@ -24,8 +24,8 @@ const [nav, setNav] = useState(false)
         </h1>
         
         <div className='hidden  md:flex items-center bg-gray-200 rounded-full p-1 text-[14px]'>
-          <p className='bg-black text-white rounded-full p-2'>Delivery</p>
-          <p className='p-2'>Pickup</p>
+          <p className='bg-black text-white rounded-full p-2'>Multiutility</p>
+          <p className='p-2'>App</p>
         </div>
       </div>
 
