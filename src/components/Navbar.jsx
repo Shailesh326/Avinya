@@ -47,8 +47,8 @@ const [nav, setNav] = useState(false)
         <AiOutlineClose  onClick={()=> setNav(!nav)} size={30} className='absolute right-4 top-4 cursor-pointer' />
         <h2 className='text-2xl p-4'>  MultiUtility <span className='font-bold'>App</span></h2>
         <ul className='flex flex-col p-4 text-gray-800'>
-            <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4' /> Orders</li>
-            <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4' /> Favorites</li>
+            <li className='text-xl py-4 flex'><TbTruckDelivery size={25} className='mr-4' /> Apps</li>
+            <li className='text-xl py-4 flex'><MdFavorite size={25} className='mr-4' /> Games</li>
             <li className='text-xl py-4 flex'><FaWallet size={25} className='mr-4' /> Wallet</li>
             <li className='text-xl py-4 flex'><MdHelp size={25} className='mr-4' /> Help</li>
             <li className='text-xl py-4 flex'><AiFillTag size={25} className='mr-4' /> Promotions</li>
