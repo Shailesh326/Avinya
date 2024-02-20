@@ -8,23 +8,23 @@ const ToolsApi = [
   },
   {
     key: 2,
-    title: "Ravi Verma",
+    title: "Weather",
     image:
-      "https://www.mypunepulse.com/wp-content/uploads/2023/10/Pune-Weather-Update-1024x538.webp",
+      "https://media.istockphoto.com/id/930392454/photo/thermometer-with-sunshine-over-blue-sky.jpg?s=612x612&w=0&k=20&c=U6w1fXZN2MF1LzA_W3gynYNK6kIfCMDx26GPh5_mKMo=",
     link: "https://www.google.com/",
   },
   {
     key: 3,
-    title: "Ravi Verma",
+    title: "Calculator",
     image:
-      "https://www.mypunepulse.com/wp-content/uploads/2023/10/Pune-Weather-Update-1024x538.webp",
+      "https://media.istockphoto.com/id/1096597272/photo/old-black-old-style-calculator.jpg?s=612x612&w=0&k=20&c=CN5vspCNSGpzHa3tVChWzml5ojtNMQXkRxz7h9GC8m0=",
     link: "https://www.google.com/",
   },
   {
     key: 4,
     title: "Ravi Verma",
     image:
-      "https://www.mypunepulse.com/wp-content/uploads/2023/10/Pune-Weather-Update-1024x538.webp",
+      "https://media.istockphoto.com/id/1271787791/photo/login-and-password-cyber-security-concept-data-protection-and-secured-internet-access.jpg?s=612x612&w=0&k=20&c=y3P5heHjYJfItFFN-DJmnJUVCVA7QjrGE3YRGh9Ua08=",
     link: "https://www.google.com/",
   },
   {
