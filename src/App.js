@@ -13,10 +13,10 @@ function App() {
       <Hero />
 
       
-      <HeadlineCards />
+      {/* <HeadlineCards /> */}
       <Tools />
       {/* <Food /> */}
-      <Category />
+      {/* <Category /> */}
       
     </div>
   );

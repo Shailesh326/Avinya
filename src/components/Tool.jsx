@@ -7,6 +7,7 @@ function Tool(props) {
       <a href={props.link} target="__blank">
         <div id="toolImage">
           <img
+            id="photo"
             className="rounded-md p-2"
             src={props.image}
             alt="404 not found"
