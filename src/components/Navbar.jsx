@@ -36,7 +36,7 @@ const [nav, setNav] = useState(false)
       </div> */}
 
       {/* Cart button */}
-      <button className='bg-black text-white hidden md:flex items-center py-2 rounded-full'> <BsFillCartFill size={20} className='mr-2' /> Cart</button>
+      <a href="#Tools"><button className='bg-black text-white hidden md:flex items-center py-2 rounded-full'> <BsFillCartFill size={20} className='mr-2' /> App</button></a>
 
       {/* Mobile Menu */}
       {/* Overlay */}

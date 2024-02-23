@@ -1,7 +1,8 @@
+// import kanban from './resources/kanban.jpg';
 const ToolsApi = [
   {
     key: 1,
-    title: "Ravi Verma",
+    title: "Text Utility",
     image:
       "https://play-lh.googleusercontent.com/Rqn80J-2IfXRDqtz2A-SL2iSVkwbuw_IiXV9ZduWo1sJZMg5lUluukboVUDl2wIQzbZ2=w240-h480-rw",
     link: "https://scintillating-madeleine-57444c.netlify.app/",
@@ -15,10 +16,9 @@ const ToolsApi = [
   },
   {
     key: 3,
-    title: "Calculator",
-    image:
-      "https://media.istockphoto.com/id/1096597272/photo/old-black-old-style-calculator.jpg?s=612x612&w=0&k=20&c=CN5vspCNSGpzHa3tVChWzml5ojtNMQXkRxz7h9GC8m0=",
-    link: "https://www.google.com/",
+    title: "Kanban Board",
+    image: "https://onenhsfinance.nhs.uk/wp-content/uploads/2021/08/kanban-project-management.png",
+    link: "https://kanbanjbb.netlify.app/",
   },
   {
     key: 4,
@@ -28,15 +28,15 @@ const ToolsApi = [
     link: "https://www.google.com/",
   },
   {
-    key: 4,
-    title: "Ravi Verma",
+    key: 5,
+    title: "Simon Game",
     image:
-      "https://www.mypunepulse.com/wp-content/uploads/2023/10/Pune-Weather-Update-1024x538.webp",
-    link: "https://www.google.com/",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg",
+    link: "https://shailesh326.github.io/Simon/",
   },
   {
-    key: 4,
-    title: "Ravi Verma",
+    key: 6,
+    title: "Memory Game",
     image:
       "https://www.mypunepulse.com/wp-content/uploads/2023/10/Pune-Weather-Update-1024x538.webp",
     link: "https://www.google.com/",
