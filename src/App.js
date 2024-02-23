@@ -12,12 +12,11 @@ function App() {
       <Navbar />
       <Hero />
 
-      
       {/* <HeadlineCards /> */}
+
       <Tools />
       {/* <Food /> */}
       {/* <Category /> */}
-      
     </div>
   );
 }
